@@ -1,0 +1,2 @@
+.env.dev
+API_URL=https://api-curso-quasar.webevolui.com/api
