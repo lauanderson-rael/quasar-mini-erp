@@ -1,2 +1,7 @@
 .env.dev
 API_URL=https://api-curso-quasar.webevolui.com/api
+
+{
+  "email": "admin@email.com",
+  "password": "12345678"
+}
